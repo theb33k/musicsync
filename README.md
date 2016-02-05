@@ -1,6 +1,6 @@
 # musicsync
 
-This python script allows you to synchrinize a directory with an iTunes playlist
+This python script allows you to synchronize a directory with an iTunes playlist
 For example, copy it in a folder on your phone sd card (needs Mass Storage mode) and execute it. It will read the iTunes xml file and will synchronize the playlist in the folder.
 
 To make it work, ther is  things to change in the script:
